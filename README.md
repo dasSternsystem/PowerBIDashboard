@@ -3,10 +3,10 @@
 Summary of the project
 
 
-Get data: 
+Getting data: 
 Contoso BI Demo Dataset for Retail Industry, downloaded from: https://www.microsoft.com/en-US/download/details.aspx?id=18279, to SQL Server backup folder and restored in Microsoft SQL Server Management Studio, providing access to Contoso database. 
 
-Import data to Power BI: 
+Importing data to Power BI: 
 Importing Contoso database from SQL Server and choosing tables of interest, precisely:  FactSales, DimChannel, DimCurrency, DimDate, DimEmployee, DimGeography, DimProduct, DimSalesTerritory, DimStore. 
 
 Modeling data: 
